@@ -7,7 +7,7 @@ Consuming icanhazdadjoke API
 The joke is fetch when the page reloads or when the
 ["get another joke"](dadjokes.PNG) button is clicked.
 
-## _Here is the code sample_
+## _Code sample_
 
 ```js
 // Select the elements
